@@ -845,3 +845,162 @@ p {
     left: 595px;
     z-index: 2;
 }
+
+
+.desctop_17 {
+    width: 1440px;
+    height: 1024px;
+    background: #FA554A;
+    position: relative;
+}
+
+.rectangle41 {
+    width: 872px;
+    height: 260px;
+    background: #F8E7D9;
+    position: absolute;
+    top: 84px;
+    right: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rectangle41 h1 {
+    color: #FA554A;
+    font-family: Bebas Neue Regular;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: absolute;
+    z-index: 99;
+}
+
+
+.line_9_2 {
+    width: 446.004px;
+    height: 8px;
+    position: absolute;
+    right: 0;
+    top: 175px;
+    background: #F8E7D9;
+}
+
+.line_13_2 {
+    width: 446.004px;
+    height: 8px;
+    position: absolute;
+    right: 0;
+    top: 258px;
+    background: #F8E7D9;
+}
+
+.line_10_2 {
+    width: 8px;
+    height: 568.004px;
+    position: absolute;
+    right: 177px;
+    top: 90px;
+    background: #F8E7D9;
+}
+
+.line_12_2 {
+    width: 8px;
+    height: 568.004px;
+    position: absolute;
+    right: 309px;
+    top: 90px;
+    background: #F8E7D9;
+}
+
+
+.rectangle42 {
+    width: 546px;
+    height: 471px;
+    position: absolute;
+    right: 50px;
+    bottom: 80px;
+    background: #F8E7D9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rectangle42 h4 {
+    width: 432px;
+    height: 202px;
+    color: #FA554A;
+    text-align: center;
+    font-family: Bebas Neue Bold;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.ellipse_231 {
+    position: absolute;
+    top: 139px;
+    right: 79px;
+}
+
+.rec41 {
+    position: absolute;
+    top: 120px;
+    right: 251px;
+}
+
+.rec43 {
+    position: absolute;
+    top: 304px;
+    right: 351px;
+    z-index: 99;
+}
+
+.rec38 {
+    position: absolute;
+    top: 288px;
+    right: 294px;
+    z-index: 99;
+}
+
+
+.rectangle39 {
+    width: 612px;
+    height: 419px;
+    background: #F8E7D9;
+    position: absolute;
+    left: 40px;
+    bottom: 117px;
+}
+
+.line99 {
+    width: 512px;
+    height: 4px;
+    background: #F8E7D9;
+    position: absolute;
+    left: 0;
+    top: 550px;
+}
+
+.line100 {
+    width: 512px;
+    height: 4px;
+    background: #F8E7D9;
+    position: absolute;
+    left: 0;
+    bottom: 191px;
+}
+
+.frame55{
+    position: absolute;
+    z-index: 99;
+}
+
+.frame25{
+    position: absolute;
+    top: 90px;
+    left: -50px;
+    z-index: 99; 
+}
