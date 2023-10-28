@@ -1,0 +1,299 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    overflow-x: hidden;
+    width: 1440px;
+    margin: 0 auto 0;
+    height: 100%;
+}
+
+@font-face {
+    font-family: "CarlaSansLight";
+    src: url("../fonts/CarlaSansLight.ttf") format("truetype");
+    font-style: Light;
+    font-weight: Light;
+}
+
+p {
+    font-family: 'CarlaSansLight';
+}
+
+
+
+.desctop_14 {
+    width: 1440px;
+    height: 1024px;
+    background: #F8E7D9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.elliple-218 {
+    width: 888px;
+    height: 888px;
+    position: absolute;
+}
+
+.rectangle-4 {
+    top: 270px;
+    left: 34px;
+    position: absolute;
+}
+
+.rectangle-5 {
+    bottom: 118px;
+    right: 121px;
+    position: absolute;
+
+}
+
+.BEBAS {
+    width: 500px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    position: absolute;
+    top: 390px;
+}
+
+.BEBAS h1 {
+    color: #F8E7D9;
+    text-align: center;
+    font-family: Bebas Neue;
+    font-size: 280px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.desctop_19 {
+    width: 1440px;
+    height: 1024px;
+    background: #FA554A;
+    position: relative;
+    overflow: hidden;
+}
+
+.rectangle_49 {
+    width: 548px;
+    height: 173px;
+    background: #F8E7D9;
+    position: absolute;
+    top: 21px;
+    left: 446px;
+    z-index: 1;
+
+}
+
+.rectangle_49 p {
+    color: #FA554A;
+    font-family: Bebas Neue;
+    font-size: 120px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.rectangle_50 {
+    width: 548px;
+    height: 173px;
+    background: #000;
+    position: absolute;
+    top: 38px;
+    left: 468px;
+    z-index: 0;
+}
+
+.line_9 {
+    width: 8px;
+    height: 293px;
+    background: #F8E7D9;
+    position: absolute;
+    left: 745px;
+}
+
+.line_8 {
+    width: 8px;
+    height: 293px;
+    background: #F8E7D9;
+    position: absolute;
+    right: 249px;
+}
+
+.rectangle_45 {
+    width: 820px;
+    height: 368px;
+    background: #F8E7D9;
+    position: absolute;
+    top: 248px;
+    right: 51px;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rectangle_45 h3 {
+    color: #FA554A;
+    text-align: center;
+    font-family: Bebas Neue;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.rectangle_47 {
+    width: 820px;
+    height: 368px;
+    background: #000;
+    position: absolute;
+    top: 281px;
+    right: 26px;
+    z-index: 0;
+
+}
+
+.rectangle_46 {
+    width: 350px;
+    height: 524px;
+    background: #F8E7D9;
+    position: absolute;
+    top: 125px;
+    left: 38px;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rectangle_46 h3 {
+    width: 300px;
+    height: 259px;
+    color: #FA554A;
+    text-align: center;
+    font-family: Bebas Neue;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 150px;
+}
+
+.rectangle_48 {
+    width: 350px;
+    height: 524px;
+    position: absolute;
+    top: 152px;
+    left: 64px;
+    background: #000;
+    z-index: 0;
+
+}
+
+.line_10 {
+    width: 106.019px;
+    height: 8px;
+    background: #F8E7D9;
+    position: absolute;
+    top: 258px;
+}
+
+.line_11 {
+    width: 106.019px;
+    height: 8px;
+    background: #F8E7D9;
+    position: absolute;
+    top: 490px;
+}
+
+.rectangle_38 {
+    position: absolute;
+    bottom: 18px;
+    left: 220px;
+    z-index: 2;
+}
+
+.year {
+    width: 481px;
+    height: auto;
+    position: absolute;
+    right: 60px;
+    bottom: -40px;
+}
+
+.year h3 {
+    color: #000;
+    text-align: center;
+    font-family: Bebas Neue;
+    font-size: 250px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.group_8 {
+    position: absolute;
+    right: 470.98px;
+    top: 300px;
+}
+
+.group_7 {
+    position: absolute;
+    right: 50px;
+    bottom: 10px;
+    z-index: 4;
+}
+
+.group_7_2 {
+    position: absolute;
+    bottom: 0;
+}
+
+.desctop_15 {
+    width: 100%;
+    height: 1024px;
+    background: #F8E7D9;
+    position: relative;
+}
+
+.rectangle_9 {
+    width: 1440px;
+    height: 101px;
+    background: #FA554A;
+}
+
+.rectangle_12 {
+    width: 532px;
+    height: 162px;
+    background: #FA554A;
+    position: absolute;
+    top: 191px;
+    left: 52px;
+}
+
+.line_1 {
+    width: 52px;
+    height: 8px;
+    background: #FA554A;
+    position: absolute;
+    top: 244px;
+}
+
+.line_2 {
+    width: 52px;
+    height: 8px;
+    background: #FA554A;
+    position: absolute;
+    top: 302px;
+
+}
