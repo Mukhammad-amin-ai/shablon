@@ -647,7 +647,7 @@ p {
     z-index: 0;
 }
 
-.rectangle15{
+.rectangle15 {
     width: 1239px;
     height: 109px;
     background: #F8E7D9;
@@ -669,7 +669,7 @@ p {
     line-height: normal;
 }
 
-.rectangle23{
+.rectangle23 {
     width: 1239px;
     height: 109px;
     background: #000;
@@ -677,4 +677,145 @@ p {
     bottom: 39px;
     right: 80px;
     z-index: 0;
+}
+
+.desctop_18 {
+    width: 1440px;
+    height: 1024px;
+    background: #F8E7D9;
+    position: relative;
+    text-align: center;
+
+}
+
+.desctop_18 h2 {
+    color: #000;
+    font-family: Bebas Neue Regular;
+    font-size: 120px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+
+}
+
+.rectangle16_2 {
+    width: 1302px;
+    height: 744px;
+    background: #FA554A;
+    position: absolute;
+    top: 153px;
+    left: 50px;
+    z-index: 1;
+}
+
+.line9_3 {
+    width: 235px;
+    height: 8px;
+    background: #000;
+    position: absolute;
+    right: 0;
+    top: 182px;
+}
+
+.line26 {
+    width: 235px;
+    height: 8px;
+    background: #000;
+    position: absolute;
+    top: 182px;
+}
+
+.line10 {
+    width: 235px;
+    height: 8px;
+    background: #000;
+    position: absolute;
+    right: 0;
+    bottom: 197px;
+}
+
+.line25 {
+    width: 235px;
+    height: 8px;
+    background: #000;
+    position: absolute;
+    bottom: 197px;
+}
+
+.Frame_4 {
+    position: absolute;
+    top: 182px;
+    left: 266px;
+    z-index: 9;
+}
+
+.rectangle18_1 {
+    width: 336px;
+    height: 132px;
+    border: 8px solid #000;
+    position: absolute;
+    z-index: 9;
+    top: 165px;
+    right: 421px;
+}
+
+.line11 {
+    width: 8px;
+    height: 184px;
+    background: #000;
+    position: absolute;
+    z-index: 9;
+    right: 421px;
+}
+
+.rectangle17_2 {
+    width: 334px;
+    height: 162px;
+    position: absolute;
+    z-index: 9;
+    border: 8px solid #000;
+    top: 337px;
+    right: 254px;
+    z-index: 3;
+}
+
+.big_dot {
+    width: 94px;
+    height: 700px;
+    color: #000;
+    font-family: Bebas Neue Regular;
+    font-size: 600px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    bottom: 167px;
+    right: 294px;
+    z-index: 9;
+    
+}
+
+.rectangle_19_23 {
+    width: 393px;
+    height: 152px;
+    border: 8px solid #000;
+    position: absolute;
+    top: 675px;
+    left: 424px;
+    z-index: 9;
+
+}
+.BB{
+    position: absolute;
+    top: 205px;
+    left: 289px;
+    z-index: 2;
+
+}
+.II{
+    position: absolute;
+    top: 130px;
+    left: 595px;
+    z-index: 2; 
 }
