@@ -778,6 +778,30 @@ p {
     top: 337px;
     right: 254px;
     z-index: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rectangle17_2 p {
+    color: #F8E7D9;
+    font-family: Bebas Neue Regular;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.rectangle17_2 p:nth-child(2) {
+    color: #FFF;
+    font-family: Bebas Neue Regular;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    right: 0;
+    top: 0px;
 }
 
 .big_dot {
@@ -793,7 +817,7 @@ p {
     bottom: 167px;
     right: 294px;
     z-index: 9;
-    
+
 }
 
 .rectangle_19_23 {
@@ -806,16 +830,18 @@ p {
     z-index: 9;
 
 }
-.BB{
+
+.BB {
     position: absolute;
     top: 205px;
     left: 289px;
     z-index: 2;
 
 }
-.II{
+
+.II {
     position: absolute;
     top: 130px;
     left: 595px;
-    z-index: 2; 
+    z-index: 2;
 }
